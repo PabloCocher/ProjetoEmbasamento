@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "furos_bdep_bacia_pantanal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-AQ-1-MS", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-AQ-1-MS\">2-AQ-1-MS<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -57.808516666666662, -20.98222333333333 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-CA-1-MT", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-CA-1-MT\">2-CA-1-MT<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -57.792925833333328, -16.09129861111111 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-FF-1-MS", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-FF-1-MS\">2-FF-1-MS<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -56.962634166666668, -19.145834722222222 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-FP-1-MS", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-FP-1-MS\">2-FP-1-MS<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -56.321514444444446, -17.2705 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-LC-1-MS", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-LC-1-MS\">2-LC-1-MS<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -56.563737777777774, -19.355278611111114 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-LC-1A-MS", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-LC-1A-MS\">2-LC-1A-MS<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -56.563737777777774, -19.355278611111114 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-PI-1-MT", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-PI-1-MT\">2-PI-1-MT<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -57.614023888888887, -16.746591666666667 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-PM-1-MS", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-PM-1-MS\">2-PM-1-MS<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -57.874923888888887, -21.698606111111111 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-SB-1-MS", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-SB-1-MS\">2-SB-1-MS<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -56.305404166666662, -18.345525833333333 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-SB-1A-MS", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-SB-1A-MS\">2-SB-1A-MS<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -56.305404166666662, -18.345525833333333 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-SJO-1-MT", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-SJO-1-MT\">2-SJO-1-MT<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -56.628195833333336, -16.93216138888889 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-SM-1-MS", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-SM-1-MS\">2-SM-1-MS<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -56.584024444444445, -18.51609 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Pantanal", "poco_nome": "2-SS-1-MT", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-SS-1-MT\">2-SS-1-MT<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -56.791255277777779, -17.342721666666666 ] } }
+]
+}

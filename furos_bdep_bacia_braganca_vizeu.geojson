@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "furos_bdep_bacia_braganca_vizeu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia de Braganca Vizeu", "poco_nome": "2-EGST-1-PA", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-EGST-1-PA\">2-EGST-1-PA<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -46.58213416666667, -1.298674722222222 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia de Braganca Vizeu", "poco_nome": "2-VNST-1-PA", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-VNST-1-PA\">2-VNST-1-PA<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -46.676575833333331, -1.113393333333333 ] } }
+]
+}

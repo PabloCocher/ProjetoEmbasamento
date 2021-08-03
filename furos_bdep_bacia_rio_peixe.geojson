@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "furos_bdep_bacia_rio_peixe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Rio do Peixe", "poco_nome": "1-BRSA-901-PB", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/1-BRSA-901-PB\">1-BRSA-901-PB<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -38.562117777777772, -6.712594166666666 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Rio do Peixe", "poco_nome": "1-BRSA-909-PB", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/1-BRSA-909-PB\">1-BRSA-909-PB<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -38.543737777777778, -6.736118888888889 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Rio do Peixe", "poco_nome": "1-BRSA-919-PB", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/1-BRSA-919-PB\">1-BRSA-919-PB<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -38.529356388888885, -6.719121944444445 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Rio do Peixe", "poco_nome": "1-UTC-4-PB", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/1-UTC-4-PB\">1-UTC-4-PB<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -38.606794444444446, -6.662451666666667 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Rio do Peixe", "poco_nome": "1-UTC-6-PB", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/1-UTC-6-PB\">1-UTC-6-PB<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -38.5919525, -6.662508055555556 ] } }
+]
+}

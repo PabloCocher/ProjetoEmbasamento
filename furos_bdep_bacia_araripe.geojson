@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "furos_bdep_bacia_araripe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Araripe", "poco_nome": "2-AP-1-CE", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-AP-1-CE\">2-AP-1-CE<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -40.042809444444444, -7.302751944444444 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Araripe", "poco_nome": "4-BO-1-PE", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/4-BO-1-PE\">4-BO-1-PE<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -40.101354166666667, -7.442492222222223 ] } }
+]
+}

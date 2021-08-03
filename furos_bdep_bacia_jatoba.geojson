@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "furos_bdep_bacia_jatoba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia de Jatoba", "poco_nome": "1-IJ-1-PE", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/1-IJ-1-PE\">1-IJ-1-PE<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -37.897010555555553, -8.875158333333333 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia de Jatoba", "poco_nome": "2-IMST-1-PE", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-IMST-1-PE\">2-IMST-1-PE<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -37.814945277777774, -8.644146111111111 ] } }
+]
+}

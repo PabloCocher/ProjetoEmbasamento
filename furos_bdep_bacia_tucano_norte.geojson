@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "furos_bdep_bacia_tucano_norte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia de Tucano Norte", "poco_nome": "2-LOG-1-BA", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-LOG-1-BA\">2-LOG-1-BA<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -38.423895833333333, -9.808212777777779 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia de Tucano Norte", "poco_nome": "1-MBR-1-BA", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/1-MBR-1-BA\">1-MBR-1-BA<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -38.63712, -9.256238888888889 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia de Tucano Norte", "poco_nome": "2-RAST-1-BA", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-RAST-1-BA\">2-RAST-1-BA<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -38.575665, -9.651187222222223 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia de Tucano Norte", "poco_nome": "2-RAST-2-BA", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-RAST-2-BA\">2-RAST-2-BA<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -38.681581111111107, -9.734024444444444 ] } }
+]
+}

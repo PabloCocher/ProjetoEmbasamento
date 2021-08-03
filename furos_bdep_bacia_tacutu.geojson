@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "furos_bdep_bacia_tacutu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Tacutu", "poco_nome": "1-ST-1-RR", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/1-ST-1-RR\">1-ST-1-RR<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -60.278986111111109, 3.197703333333333 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia do Tacutu", "poco_nome": "1-TU-1-RR", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/1-TU-1-RR\">1-TU-1-RR<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -60.015145, 3.454438055555556 ] } }
+]
+}

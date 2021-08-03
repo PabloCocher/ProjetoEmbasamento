@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "furos_bdep_bacia_parecis",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia dos Parecis", "poco_nome": "2-FI-1-MT", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-FI-1-MT\">2-FI-1-MT<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -57.994678333333333, -14.085996388888889 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia dos Parecis", "poco_nome": "2-SM-1-MT", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-SM-1-MT\">2-SM-1-MT<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -55.41094, -13.512711944444444 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia dos Parecis", "poco_nome": "1-BRSA-1204-MT", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/1-BRSA-1204-MT\">1-BRSA-1204-MT<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -55.434531388888885, -13.831199444444444 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia dos Parecis", "poco_nome": "2-ANP-4-MT", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-ANP-4-MT\">2-ANP-4-MT<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -57.994860555555555, -12.172666111111111 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia dos Parecis", "poco_nome": "2-ANP-4A-MT", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-ANP-4A-MT\">2-ANP-4A-MT<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -57.994860833333334, -12.172666388888889 ] } },
+{ "type": "Feature", "properties": { "bacia_nome": "Bacia dos Parecis", "poco_nome": "2-ANP-6-MT", "poco_descr": null, "poco_link": "<a href=\"http:\/\/afloramentos.com\/2-ANP-6-MT\">2-ANP-6-MT<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -56.54806388888889, -13.837973055555556 ] } }
+]
+}
